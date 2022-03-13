@@ -1,4 +1,4 @@
-
+## Bem vindo ao perfil do Diogo Sola!
 <div>
   <a href="https://github.com/diogo-sola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogo-sola&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Redes sociais e contatos!
  
 <div> 
   <a href="https://www.youtube.com/c/SolasGarage" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
