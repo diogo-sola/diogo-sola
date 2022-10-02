@@ -1,8 +1,8 @@
 ## Bem vindo ao perfil do Diogo Sola!
 <div>
   <a href="https://github.com/diogo-sola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogo-sola&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-sola&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogo-sola&bg_color=000000,0a0d30,0d1140&title_color=ffffff&text_color=b2b4c2&border_color=3343f5&icon_color=3343f5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-sola&bg_color=000000,0a0d30,0d1140&title_color=ffffff&border_color=3343f5&text_color=b2b4c2&layout=compact&langs_count=6&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,14 +12,11 @@
  
  <br>
  
-  ### Redes sociais e contatos!
- 
-<div> 
-  <a href="https://www.youtube.com/c/SolasGarage" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/diogoosola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="diogo.sola@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <div> 
+  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/diogoosola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/c/SolasGarage" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/diogo-sola/diogo-sola/blob/output/github-contribution-grid-snake.svg)
 
